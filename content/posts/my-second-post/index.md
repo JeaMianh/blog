@@ -1,6 +1,6 @@
 ---
 title: "My Second Post"
-date: {{ .Date }}
+date: "2024-05-28T20:10:00+00:00"
 tags: ["testing", "hugo"]
 draft: false
 ---
